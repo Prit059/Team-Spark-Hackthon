@@ -15,20 +15,20 @@
 
 ##Features
 
-User Authentication: Secure login and registration via Clerk.
-Exercise Logging: Record exercises with details such as duration, reps, sets, weight, calories, and notes.
-Daily & Weekly Progress: View summaries and analytics of completed workouts.
-Progress Trends: Track exercise types and performance over the last 30 days.
-Exercise Catalog: Browse exercises by category, difficulty, and search by name or muscle group.
-Custom Exercises: Add AI-generated custom exercises to the catalog.
-Statistics Overview: See total workouts, weekly workouts, total points, and current streaks.
+- User Authentication: Secure login and registration via Clerk.
+- Exercise Logging: Record exercises with details such as duration, reps, sets, weight, calories, and notes.
+- Daily & Weekly Progress: View summaries and analytics of completed workouts.
+- Progress Trends: Track exercise types and performance over the last 30 days.
+- Exercise Catalog: Browse exercises by category, difficulty, and search by name or muscle group.
+- Custom Exercises: Add AI-generated custom exercises to the catalog.
+- Statistics Overview: See total workouts, weekly workouts, total points, and current streaks.
 
 ## Tech Stack
 
-Frontend: React, Next.js (App Router), TailwindCSS
-Backend: Convex (Database & Serverless Functions)
-Authentication: Clerk (Auth & User Management)
-UI Components: Lucide Icons, Custom Cards and Badges
+- Frontend: React, Next.js (App Router), TailwindCSS
+- Backend: Convex (Database & Serverless Functions)
+- Authentication: Clerk (Auth & User Management)
+- UI Components: Lucide Icons, Custom Cards and Badges
 
 ## Setup .env file
 
