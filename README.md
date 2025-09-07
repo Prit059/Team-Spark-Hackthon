@@ -13,14 +13,22 @@
 - 💻 Layouts
 - 🎭 Client & Server Components
 
-## Features
+##Features
 
-- **Smart AI Assistant**: Engage in conversation with an AI that asks about your fitness goals, physical condition, and preferences
-- **Personalized Workout Plans**: Get custom exercise routines based on your fitness level, injuries, and goals
-- **Diet Recommendations**: Receive personalized meal plans accounting for your allergies and dietary preferences
-- **User Authentication**: Sign in with GitHub, Google, or email/password
-- **Program Management**: Create and view multiple fitness programs with only the latest one active
-- **Responsive Design**: Beautiful UI that works across all devices
+User Authentication: Secure login and registration via Clerk.
+Exercise Logging: Record exercises with details such as duration, reps, sets, weight, calories, and notes.
+Daily & Weekly Progress: View summaries and analytics of completed workouts.
+Progress Trends: Track exercise types and performance over the last 30 days.
+Exercise Catalog: Browse exercises by category, difficulty, and search by name or muscle group.
+Custom Exercises: Add AI-generated custom exercises to the catalog.
+Statistics Overview: See total workouts, weekly workouts, total points, and current streaks.
+
+## Tech Stack
+
+Frontend: React, Next.js (App Router), TailwindCSS
+Backend: Convex (Database & Serverless Functions)
+Authentication: Clerk (Auth & User Management)
+UI Components: Lucide Icons, Custom Cards and Badges
 
 ## Setup .env file
 
