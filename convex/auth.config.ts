@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://peaceful-baboon-38.clerk.accounts.dev/",
+      domain: "https://sharing-feline-54.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
